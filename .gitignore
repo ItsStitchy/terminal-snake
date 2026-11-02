@@ -1,0 +1,10 @@
+# Compiled programs and build artifacts
+/snake
+*.o
+*.dSYM/
+
+# Temporary files created by VS Code's Code Runner extension
+tempCodeRunnerFile*
+
+# macOS metadata
+.DS_Store
